@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="380" viewBox="40 10 240 170" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="640"
+     height="410"
+     viewBox="0 0 320 205"
+     shape-rendering="crispEdges"
+     role="img"
+     aria-labelledby="title desc">
 <title id="title">v0idnx</title><desc id="desc">Minimal off-white pixel ghost with an asymmetric hem and drifting pixels on charcoal.</desc>
 <rect width="320" height="190" fill="#151515"/>
 <rect x="135" y="24" width="7" height="7" fill="#E6E5DF"/>
